@@ -1,0 +1,39 @@
+{
+  "version": "review-candidates-2026-03-23T12-00-00-000Z",
+  "generatedAt": "2026-03-23T12:00:00.000Z",
+  "reviewCandidateCount": 6,
+  "reviewCandidateAcceptedByRule": 6,
+  "reviewCandidateRejectedByLicense": 0,
+  "highValuePhraseCount": 6,
+  "sourceStats": [
+    {
+      "source": "glosbe-wuu",
+      "fetchedPages": 1,
+      "discoveredPages": 1,
+      "parsedEntries": 2,
+      "acceptedEntries": 2,
+      "skippedEntries": 0,
+      "errors": []
+    },
+    {
+      "source": "dliflc-wu",
+      "fetchedPages": 2,
+      "discoveredPages": 3,
+      "parsedEntries": 3,
+      "acceptedEntries": 1,
+      "skippedEntries": 2,
+      "errors": [
+        "https://fieldsupport.dliflc.edu/products/wu/cs_bc_LSK/module7.html: HTTP 404"
+      ]
+    },
+    {
+      "source": "omniglot-shanghainese",
+      "fetchedPages": 1,
+      "discoveredPages": 1,
+      "parsedEntries": 7,
+      "acceptedEntries": 5,
+      "skippedEntries": 2,
+      "errors": []
+    }
+  ]
+}

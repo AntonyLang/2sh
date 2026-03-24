@@ -1,0 +1,42 @@
+services:
+  web:
+    build:
+      context: .
+    env_file:
+      - .env.production
+    command: ["/bin/sh", "/app/deploy/self-host/run-web.sh"]
+    restart: unless-stopped
+    volumes:
+      - app-data:/app/var
+
+  scheduler:
+    build:
+      context: .
+    env_file:
+      - .env.production
+    command: ["/bin/sh", "/app/deploy/self-host/run-scheduler.sh"]
+    restart: unless-stopped
+    depends_on:
+      - web
+    volumes:
+      - app-data:/app/var
+
+  caddy:
+    image: caddy:2.9-alpine
+    env_file:
+      - .env.production
+    restart: unless-stopped
+    depends_on:
+      - web
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./deploy/self-host/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+
+volumes:
+  app-data:
+  caddy-data:
+  caddy-config:

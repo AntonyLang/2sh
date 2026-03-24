@@ -1,0 +1,12 @@
+.git
+.github
+.next
+node_modules
+var
+coverage
+npm-debug.log
+.env
+.env.local
+.env.production
+2sh-release.tgz
+2sh-release.zip

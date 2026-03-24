@@ -1,0 +1,482 @@
+[
+  {
+    "input": "怎么回事",
+    "expected": "哪能为实事"
+  },
+  {
+    "input": "你在做什么",
+    "expected": "侬勒做啥"
+  },
+  {
+    "input": "今天下雨了",
+    "expected": "今朝落雨了"
+  },
+  {
+    "input": "你好",
+    "expected": "侬好"
+  },
+  {
+    "input": "你会说上海话吗",
+    "expected": "侬上海言话讲得来伐"
+  },
+  {
+    "input": "你好吗",
+    "expected": "侬好伐"
+  },
+  {
+    "input": "不知道",
+    "expected": "勿晓得"
+  },
+  {
+    "input": "我们",
+    "expected": "阿拉"
+  },
+  {
+    "input": "怎么",
+    "expected": "哪能"
+  },
+  {
+    "input": "什么",
+    "expected": "啥"
+  },
+  {
+    "input": "不行",
+    "expected": "伐来塞"
+  },
+  {
+    "input": "你吃饭了吗",
+    "expected": "侬吃过了伐"
+  },
+  {
+    "input": "你",
+    "expected": "侬"
+  },
+  {
+    "input": "我",
+    "expected": "吾"
+  },
+  {
+    "input": "今天",
+    "expected": "今朝"
+  },
+  {
+    "input": "吃饭了吗",
+    "expected": "吃过了伐"
+  },
+  {
+    "input": "我不知道",
+    "expected": "吾勿晓得"
+  },
+  {
+    "input": "你不知道",
+    "expected": "侬勿晓得"
+  },
+  {
+    "input": "他不知道",
+    "expected": "伊勿晓得"
+  },
+  {
+    "input": "她不知道",
+    "expected": "伊勿晓得"
+  },
+  {
+    "input": "我们不知道",
+    "expected": "阿拉勿晓得"
+  },
+  {
+    "input": "你们不知道",
+    "expected": "侬伲勿晓得"
+  },
+  {
+    "input": "对不起",
+    "expected": "对勿起"
+  },
+  {
+    "input": "你吃过了吗",
+    "expected": "侬吃过了伐"
+  },
+  {
+    "input": "早上好",
+    "expected": "侬早"
+  },
+  {
+    "input": "你喜欢什么",
+    "expected": "侬欢喜啥"
+  },
+  {
+    "input": "他",
+    "expected": "伊"
+  },
+  {
+    "input": "她",
+    "expected": "伊"
+  },
+  {
+    "input": "不要",
+    "expected": "勿要"
+  },
+  {
+    "input": "你们",
+    "expected": "侬伲"
+  },
+  {
+    "input": "下雨",
+    "expected": "落雨"
+  },
+  {
+    "input": "厉害",
+    "expected": "结棍"
+  },
+  {
+    "input": "为什么",
+    "expected": "做啥"
+  },
+  {
+    "input": "你怎么了",
+    "expected": "侬哪能了"
+  },
+  {
+    "input": "你知道吗",
+    "expected": "侬晓得伐"
+  },
+  {
+    "input": "我们一起去",
+    "expected": "阿拉一道去"
+  },
+  {
+    "input": "我今天下雨了",
+    "expected": "吾今朝落雨了"
+  },
+  {
+    "input": "你今天下雨了",
+    "expected": "侬今朝落雨了"
+  },
+  {
+    "input": "他今天下雨了",
+    "expected": "伊今朝落雨了"
+  },
+  {
+    "input": "她今天下雨了",
+    "expected": "伊今朝落雨了"
+  },
+  {
+    "input": "我们今天下雨了",
+    "expected": "阿拉今朝落雨了"
+  },
+  {
+    "input": "你们今天下雨了",
+    "expected": "侬伲今朝落雨了"
+  },
+  {
+    "input": "没有",
+    "expected": "呒没"
+  },
+  {
+    "input": "睡觉",
+    "expected": "困觉"
+  },
+  {
+    "input": "很棒",
+    "expected": "老灵额"
+  },
+  {
+    "input": "你在哪里",
+    "expected": "侬勒阿里"
+  },
+  {
+    "input": "你最近好吗",
+    "expected": "侬近来好伐"
+  },
+  {
+    "input": "你今天好吗",
+    "expected": "侬今朝好伐"
+  },
+  {
+    "input": "你为什么这样",
+    "expected": "侬做啥介样"
+  },
+  {
+    "input": "我不知道怎么办",
+    "expected": "吾勿晓得哪能办"
+  },
+  {
+    "input": "谢谢",
+    "expected": "谢谢侬"
+  },
+  {
+    "input": "你们好",
+    "expected": "侬伲好"
+  },
+  {
+    "input": "你去哪里",
+    "expected": "侬去阿里"
+  },
+  {
+    "input": "你回家吗",
+    "expected": "侬转去伐"
+  },
+  {
+    "input": "我们去玩",
+    "expected": "阿拉去白相"
+  },
+  {
+    "input": "你们好吗",
+    "expected": "侬伲好伐"
+  },
+  {
+    "input": "你不知道吗",
+    "expected": "侬勿晓得伐"
+  },
+  {
+    "input": "我不认识他",
+    "expected": "吾勿认得伊"
+  },
+  {
+    "input": "你不认识我吗",
+    "expected": "侬勿认得吾伐"
+  },
+  {
+    "input": "哪里",
+    "expected": "阿里"
+  },
+  {
+    "input": "这里",
+    "expected": "搿搭"
+  },
+  {
+    "input": "那里",
+    "expected": "埃搭"
+  },
+  {
+    "input": "怎么了",
+    "expected": "哪能了"
+  },
+  {
+    "input": "我不要",
+    "expected": "吾勿要"
+  },
+  {
+    "input": "你不要",
+    "expected": "侬勿要"
+  },
+  {
+    "input": "他不要",
+    "expected": "伊勿要"
+  },
+  {
+    "input": "她不要",
+    "expected": "伊勿要"
+  },
+  {
+    "input": "我们不要",
+    "expected": "阿拉勿要"
+  },
+  {
+    "input": "你们不要",
+    "expected": "侬伲勿要"
+  },
+  {
+    "input": "不好意思",
+    "expected": "勿好意思"
+  },
+  {
+    "input": "我们回家吧",
+    "expected": "阿拉转去伐"
+  },
+  {
+    "input": "很好",
+    "expected": "蛮好"
+  },
+  {
+    "input": "没关系",
+    "expected": "呒没关系"
+  },
+  {
+    "input": "真厉害",
+    "expected": "老结棍"
+  },
+  {
+    "input": "我没有",
+    "expected": "吾呒没"
+  },
+  {
+    "input": "你没有",
+    "expected": "侬呒没"
+  },
+  {
+    "input": "他没有",
+    "expected": "伊呒没"
+  },
+  {
+    "input": "她没有",
+    "expected": "伊呒没"
+  },
+  {
+    "input": "我们没有",
+    "expected": "阿拉呒没"
+  },
+  {
+    "input": "你们没有",
+    "expected": "侬伲呒没"
+  },
+  {
+    "input": "我们明天见",
+    "expected": "阿拉明朝再会"
+  },
+  {
+    "input": "我们都很好",
+    "expected": "阿拉侪蛮好"
+  },
+  {
+    "input": "今天怎么这么冷",
+    "expected": "今朝哪能介冷"
+  },
+  {
+    "input": "今天怎么这么热",
+    "expected": "今朝哪能介热"
+  },
+  {
+    "input": "玩",
+    "expected": "白相"
+  },
+  {
+    "input": "再见",
+    "expected": "再会"
+  },
+  {
+    "input": "喜欢",
+    "expected": "欢喜"
+  },
+  {
+    "input": "没事",
+    "expected": "呒没事"
+  },
+  {
+    "input": "知道",
+    "expected": "晓得"
+  },
+  {
+    "input": "别客气",
+    "expected": "勿要客气"
+  },
+  {
+    "input": "上海话",
+    "expected": "上海言话"
+  },
+  {
+    "input": "别着急",
+    "expected": "勿要急"
+  },
+  {
+    "input": "别胡说",
+    "expected": "勿要瞎讲"
+  },
+  {
+    "input": "真的吗",
+    "expected": "真个伐"
+  },
+  {
+    "input": "等一下",
+    "expected": "等一歇"
+  },
+  {
+    "input": "怎么办",
+    "expected": "哪能办"
+  },
+  {
+    "input": "什么事",
+    "expected": "啥事体"
+  },
+  {
+    "input": "明天见",
+    "expected": "明朝再会"
+  },
+  {
+    "input": "没办法",
+    "expected": "呒没办法"
+  },
+  {
+    "input": "我很好",
+    "expected": "吾蛮好"
+  },
+  {
+    "input": "我喜欢",
+    "expected": "吾欢喜"
+  },
+  {
+    "input": "你很好",
+    "expected": "侬蛮好"
+  },
+  {
+    "input": "你喜欢",
+    "expected": "侬欢喜"
+  },
+  {
+    "input": "他很好",
+    "expected": "伊蛮好"
+  },
+  {
+    "input": "他喜欢",
+    "expected": "伊欢喜"
+  },
+  {
+    "input": "她很好",
+    "expected": "伊蛮好"
+  },
+  {
+    "input": "她喜欢",
+    "expected": "伊欢喜"
+  },
+  {
+    "input": "好久不见",
+    "expected": "老久勿见"
+  },
+  {
+    "input": "我不认识",
+    "expected": "吾勿认得"
+  },
+  {
+    "input": "你不认识",
+    "expected": "侬勿认得"
+  },
+  {
+    "input": "他不认识",
+    "expected": "伊勿认得"
+  },
+  {
+    "input": "她不认识",
+    "expected": "伊勿认得"
+  },
+  {
+    "input": "我们很好",
+    "expected": "阿拉蛮好"
+  },
+  {
+    "input": "我们喜欢",
+    "expected": "阿拉欢喜"
+  },
+  {
+    "input": "你们很好",
+    "expected": "侬伲蛮好"
+  },
+  {
+    "input": "你们喜欢",
+    "expected": "侬伲欢喜"
+  },
+  {
+    "input": "你在家吗",
+    "expected": "侬勒屋里伐"
+  },
+  {
+    "input": "谢谢你们",
+    "expected": "谢谢侬伲"
+  },
+  {
+    "input": "我们不认识",
+    "expected": "阿拉勿认得"
+  },
+  {
+    "input": "你们不认识",
+    "expected": "侬伲勿认得"
+  }
+]

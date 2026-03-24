@@ -1,0 +1,7 @@
+mandarin,shanghainese,source,source_tier,evidence,confidence,candidate_type,license_note,status
+对不起,对勿起,omniglot-shanghainese,candidate,https://www.omniglot.com/language/phrases/shanghainese.php#excuse-me-/-sorry,0.84,phrase:polite,Omniglot Shanghainese useful phrases 页面，只产出待审候选,pending
+早上好,侬早,omniglot-shanghainese,candidate,https://www.omniglot.com/language/phrases/shanghainese.php#good-morning,0.84,phrase:greeting,Omniglot Shanghainese useful phrases 页面，只产出待审候选,pending
+你好,侬好,omniglot-shanghainese,candidate,https://www.omniglot.com/language/phrases/shanghainese.php#hello,0.84,phrase:greeting,Omniglot Shanghainese useful phrases 页面，只产出待审候选,pending
+谢谢,谢谢侬,omniglot-shanghainese,candidate,https://www.omniglot.com/language/phrases/shanghainese.php#thank-you,0.84,phrase:polite,Omniglot Shanghainese useful phrases 页面，只产出待审候选,pending
+谢谢你帮忙,谢谢侬帮我忙,dliflc-wu,candidate,https://fieldsupport.dliflc.edu/products/wu/cs_bc_LSK/module3.html,0.56,phrase:polite,DLIFLC 公开 Basic Language Guide，只产出待审候选,pending
+你怎么样,侬好伐,omniglot-shanghainese,candidate,https://www.omniglot.com/language/phrases/shanghainese.php#how-are-you,0.56,phrase:status,Omniglot Shanghainese useful phrases 页面，只产出待审候选,pending

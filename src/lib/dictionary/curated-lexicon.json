@@ -1,0 +1,4097 @@
+[
+  {
+    "mandarin": "怎么回事",
+    "shanghainese": "哪能为实事",
+    "aliases": [
+      "怎么一回事",
+      "怎么回事啊"
+    ],
+    "weight": 195,
+    "enabled": true,
+    "category": "question",
+    "note": "首选示例",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在做什么",
+    "shanghainese": "侬勒做啥",
+    "aliases": [
+      "你在干什么",
+      "你在做啥"
+    ],
+    "weight": 188,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天下雨了",
+    "shanghainese": "今朝落雨了",
+    "aliases": [
+      "今天下雨啦",
+      "今天下雨"
+    ],
+    "weight": 188,
+    "enabled": true,
+    "category": "weather",
+    "note": "验收样例",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你好",
+    "shanghainese": "侬好",
+    "aliases": [
+      "你好啊",
+      "您好"
+    ],
+    "weight": 180,
+    "enabled": true,
+    "category": "greeting",
+    "note": "常用问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你会说上海话吗",
+    "shanghainese": "侬上海言话讲得来伐",
+    "aliases": [],
+    "weight": 180,
+    "enabled": true,
+    "category": "question",
+    "note": "公开源高频句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你好吗",
+    "shanghainese": "侬好伐",
+    "aliases": [
+      "你还好吗",
+      "你最近好吗"
+    ],
+    "weight": 176,
+    "enabled": true,
+    "category": "greeting",
+    "note": "固定问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "怎么回事",
+    "shanghainese": "哪能回事",
+    "aliases": [
+      "这是怎么回事"
+    ],
+    "weight": 175,
+    "enabled": true,
+    "category": "question",
+    "note": "常见口语短写",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不知道",
+    "shanghainese": "勿晓得",
+    "aliases": [
+      "不晓得"
+    ],
+    "weight": 172,
+    "enabled": true,
+    "category": "response",
+    "note": "高频词组",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们",
+    "shanghainese": "阿拉",
+    "aliases": [],
+    "weight": 170,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "怎么",
+    "shanghainese": "哪能",
+    "aliases": [],
+    "weight": 170,
+    "enabled": true,
+    "category": "question",
+    "note": "疑问词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天下雨了",
+    "shanghainese": "今朝下雨了",
+    "aliases": [],
+    "weight": 168,
+    "enabled": true,
+    "category": "weather",
+    "note": "偏普通话写法",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "什么",
+    "shanghainese": "啥",
+    "aliases": [
+      "啥子"
+    ],
+    "weight": 166,
+    "enabled": true,
+    "category": "question",
+    "note": "疑问词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不行",
+    "shanghainese": "伐来塞",
+    "aliases": [
+      "不可以"
+    ],
+    "weight": 166,
+    "enabled": true,
+    "category": "response",
+    "note": "常用否定",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你吃饭了吗",
+    "shanghainese": "侬吃过了伐",
+    "aliases": [
+      "你吃过饭了吗"
+    ],
+    "weight": 166,
+    "enabled": true,
+    "category": "greeting",
+    "note": "高频寒暄",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你",
+    "shanghainese": "侬",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我",
+    "shanghainese": "吾",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天",
+    "shanghainese": "今朝",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "time",
+    "note": "时间词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "吃饭了吗",
+    "shanghainese": "吃过了伐",
+    "aliases": [
+      "吃过饭了吗"
+    ],
+    "weight": 165,
+    "enabled": true,
+    "category": "greeting",
+    "note": "日常寒暄",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我不知道",
+    "shanghainese": "吾勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你不知道",
+    "shanghainese": "侬勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他不知道",
+    "shanghainese": "伊勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她不知道",
+    "shanghainese": "伊勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们不知道",
+    "shanghainese": "阿拉勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们不知道",
+    "shanghainese": "侬伲勿晓得",
+    "aliases": [],
+    "weight": 165,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "对不起",
+    "shanghainese": "对勿起",
+    "aliases": [
+      "抱歉"
+    ],
+    "weight": 164,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "道歉表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你吃过了吗",
+    "shanghainese": "侬吃过了伐",
+    "aliases": [],
+    "weight": 164,
+    "enabled": true,
+    "category": "greeting",
+    "note": "高频寒暄",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "早上好",
+    "shanghainese": "侬早",
+    "aliases": [
+      "早安"
+    ],
+    "weight": 162,
+    "enabled": true,
+    "category": "greeting",
+    "note": "晨间问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你喜欢什么",
+    "shanghainese": "侬欢喜啥",
+    "aliases": [
+      "你喜欢啥"
+    ],
+    "weight": 162,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他",
+    "shanghainese": "伊",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她",
+    "shanghainese": "伊",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不要",
+    "shanghainese": "勿要",
+    "aliases": [
+      "别要"
+    ],
+    "weight": 160,
+    "enabled": true,
+    "category": "verb",
+    "note": "高频否定",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们",
+    "shanghainese": "侬伲",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "pronoun",
+    "note": "常用代词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "下雨",
+    "shanghainese": "落雨",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "厉害",
+    "shanghainese": "结棍",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "response",
+    "note": "口语夸赞",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "为什么",
+    "shanghainese": "做啥",
+    "aliases": [
+      "为何"
+    ],
+    "weight": 160,
+    "enabled": true,
+    "category": "question",
+    "note": "疑问词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你怎么了",
+    "shanghainese": "侬哪能了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你知道吗",
+    "shanghainese": "侬晓得伐",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们一起去",
+    "shanghainese": "阿拉一道去",
+    "aliases": [
+      "我们一块去"
+    ],
+    "weight": 160,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我今天下雨了",
+    "shanghainese": "吾今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天下雨了",
+    "shanghainese": "侬今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他今天下雨了",
+    "shanghainese": "伊今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她今天下雨了",
+    "shanghainese": "伊今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天下雨了",
+    "shanghainese": "阿拉今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天下雨了",
+    "shanghainese": "侬伲今朝落雨了",
+    "aliases": [],
+    "weight": 160,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没有",
+    "shanghainese": "呒没",
+    "aliases": [
+      "没"
+    ],
+    "weight": 158,
+    "enabled": true,
+    "category": "response",
+    "note": "高频否定",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "睡觉",
+    "shanghainese": "困觉",
+    "aliases": [],
+    "weight": 158,
+    "enabled": true,
+    "category": "life",
+    "note": "起居表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "很棒",
+    "shanghainese": "老灵额",
+    "aliases": [
+      "真棒"
+    ],
+    "weight": 158,
+    "enabled": true,
+    "category": "response",
+    "note": "夸赞表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在哪里",
+    "shanghainese": "侬勒阿里",
+    "aliases": [
+      "你在哪儿"
+    ],
+    "weight": 158,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你最近好吗",
+    "shanghainese": "侬近来好伐",
+    "aliases": [],
+    "weight": 158,
+    "enabled": true,
+    "category": "greeting",
+    "note": "高频问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天好吗",
+    "shanghainese": "侬今朝好伐",
+    "aliases": [],
+    "weight": 158,
+    "enabled": true,
+    "category": "greeting",
+    "note": "高频问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你为什么这样",
+    "shanghainese": "侬做啥介样",
+    "aliases": [],
+    "weight": 158,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我不知道怎么办",
+    "shanghainese": "吾勿晓得哪能办",
+    "aliases": [],
+    "weight": 158,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "谢谢",
+    "shanghainese": "谢谢侬",
+    "aliases": [
+      "谢谢你"
+    ],
+    "weight": 156,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们好",
+    "shanghainese": "侬伲好",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "greeting",
+    "note": "群体问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你去哪里",
+    "shanghainese": "侬去阿里",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你回家吗",
+    "shanghainese": "侬转去伐",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们去玩",
+    "shanghainese": "阿拉去白相",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们好吗",
+    "shanghainese": "侬伲好伐",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "greeting",
+    "note": "群体问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你不知道吗",
+    "shanghainese": "侬勿晓得伐",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我不认识他",
+    "shanghainese": "吾勿认得伊",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "phrase",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你不认识我吗",
+    "shanghainese": "侬勿认得吾伐",
+    "aliases": [],
+    "weight": 156,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "哪里",
+    "shanghainese": "阿里",
+    "aliases": [
+      "哪儿"
+    ],
+    "weight": 155,
+    "enabled": true,
+    "category": "question",
+    "note": "方位词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "这里",
+    "shanghainese": "搿搭",
+    "aliases": [
+      "这儿"
+    ],
+    "weight": 155,
+    "enabled": true,
+    "category": "position",
+    "note": "方位词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "那里",
+    "shanghainese": "埃搭",
+    "aliases": [
+      "那儿"
+    ],
+    "weight": 155,
+    "enabled": true,
+    "category": "position",
+    "note": "方位词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "怎么了",
+    "shanghainese": "哪能了",
+    "aliases": [
+      "怎么啦"
+    ],
+    "weight": 155,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我不要",
+    "shanghainese": "吾勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你不要",
+    "shanghainese": "侬勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他不要",
+    "shanghainese": "伊勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她不要",
+    "shanghainese": "伊勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们不要",
+    "shanghainese": "阿拉勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们不要",
+    "shanghainese": "侬伲勿要",
+    "aliases": [],
+    "weight": 155,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不好意思",
+    "shanghainese": "勿好意思",
+    "aliases": [],
+    "weight": 154,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "常用道歉",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们回家吧",
+    "shanghainese": "阿拉转去伐",
+    "aliases": [],
+    "weight": 154,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "很好",
+    "shanghainese": "蛮好",
+    "aliases": [
+      "挺好"
+    ],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没关系",
+    "shanghainese": "呒没关系",
+    "aliases": [
+      "没有关系",
+      "没啥关系"
+    ],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "高频回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真厉害",
+    "shanghainese": "老结棍",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "口语夸赞",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我没有",
+    "shanghainese": "吾呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你没有",
+    "shanghainese": "侬呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他没有",
+    "shanghainese": "伊呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她没有",
+    "shanghainese": "伊呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们没有",
+    "shanghainese": "阿拉呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们没有",
+    "shanghainese": "侬伲呒没",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们明天见",
+    "shanghainese": "阿拉明朝再会",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们都很好",
+    "shanghainese": "阿拉侪蛮好",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天怎么这么冷",
+    "shanghainese": "今朝哪能介冷",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天怎么这么热",
+    "shanghainese": "今朝哪能介热",
+    "aliases": [],
+    "weight": 152,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "玩",
+    "shanghainese": "白相",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "再见",
+    "shanghainese": "再会",
+    "aliases": [
+      "回头见",
+      "下次见"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "固定告别",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "喜欢",
+    "shanghainese": "欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "常用动词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没事",
+    "shanghainese": "呒没事",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "知道",
+    "shanghainese": "晓得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "常用动词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别客气",
+    "shanghainese": "勿要客气",
+    "aliases": [
+      "不用客气"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "上海话",
+    "shanghainese": "上海言话",
+    "aliases": [
+      "沪语"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "noun",
+    "note": "方言名称",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别着急",
+    "shanghainese": "勿要急",
+    "aliases": [
+      "别急"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "安慰表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别胡说",
+    "shanghainese": "勿要瞎讲",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真的吗",
+    "shanghainese": "真个伐",
+    "aliases": [
+      "真的吗？"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "确认表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "等一下",
+    "shanghainese": "等一歇",
+    "aliases": [
+      "等一会儿",
+      "稍等一下"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "time",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "怎么办",
+    "shanghainese": "哪能办",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "什么事",
+    "shanghainese": "啥事体",
+    "aliases": [
+      "什么事情"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天见",
+    "shanghainese": "明朝再会",
+    "aliases": [
+      "明天再见"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "告别表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没办法",
+    "shanghainese": "呒没办法",
+    "aliases": [
+      "没有办法"
+    ],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我很好",
+    "shanghainese": "吾蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我喜欢",
+    "shanghainese": "吾欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你很好",
+    "shanghainese": "侬蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你喜欢",
+    "shanghainese": "侬欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他很好",
+    "shanghainese": "伊蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他喜欢",
+    "shanghainese": "伊欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她很好",
+    "shanghainese": "伊蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她喜欢",
+    "shanghainese": "伊欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "好久不见",
+    "shanghainese": "老久勿见",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "greeting",
+    "note": "重逢问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我不认识",
+    "shanghainese": "吾勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你不认识",
+    "shanghainese": "侬勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他不认识",
+    "shanghainese": "伊勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她不认识",
+    "shanghainese": "伊勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们很好",
+    "shanghainese": "阿拉蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们喜欢",
+    "shanghainese": "阿拉欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们很好",
+    "shanghainese": "侬伲蛮好",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们喜欢",
+    "shanghainese": "侬伲欢喜",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在家吗",
+    "shanghainese": "侬勒屋里伐",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "谢谢你们",
+    "shanghainese": "谢谢侬伲",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们不认识",
+    "shanghainese": "阿拉勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们不认识",
+    "shanghainese": "侬伲勿认得",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天忙吗",
+    "shanghainese": "侬今朝忙伐",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天回家吗",
+    "shanghainese": "侬今朝转去伐",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别担心，没关系",
+    "shanghainese": "勿要担心，呒没关系",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "安慰表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别着急，我们慢慢来",
+    "shanghainese": "勿要急，阿拉慢慢来",
+    "aliases": [],
+    "weight": 150,
+    "enabled": true,
+    "category": "response",
+    "note": "安慰表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "昨天",
+    "shanghainese": "昨朝",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "time",
+    "note": "时间词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天",
+    "shanghainese": "明朝",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "time",
+    "note": "时间词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真好",
+    "shanghainese": "老好额",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "口语夸赞",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不认识",
+    "shanghainese": "勿认得",
+    "aliases": [
+      "不认得"
+    ],
+    "weight": 148,
+    "enabled": true,
+    "category": "verb",
+    "note": "常用短语",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你忙吗",
+    "shanghainese": "侬忙伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你没事吧",
+    "shanghainese": "侬呒没事伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "greeting",
+    "note": "关心表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我没关系",
+    "shanghainese": "吾呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你没关系",
+    "shanghainese": "侬呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他没关系",
+    "shanghainese": "伊呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她没关系",
+    "shanghainese": "伊呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他回家了",
+    "shanghainese": "伊转去了",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "phrase",
+    "note": "状态表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她回家了",
+    "shanghainese": "伊转去了",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "phrase",
+    "note": "状态表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们没关系",
+    "shanghainese": "阿拉呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们没关系",
+    "shanghainese": "侬伲呒没关系",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你明天来吗",
+    "shanghainese": "侬明朝来伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们知道吗",
+    "shanghainese": "侬伲晓得伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "question",
+    "note": "群体问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "大家都很好",
+    "shanghainese": "大家侪蛮好",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们现在走吧",
+    "shanghainese": "阿拉现在走伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天出去玩",
+    "shanghainese": "侬今朝出去白相",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "phrase",
+    "note": "生活表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你昨天去哪里了",
+    "shanghainese": "侬昨朝去阿里了",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天回家吗",
+    "shanghainese": "侬伲今朝转去伐",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "question",
+    "note": "群体问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天出去玩",
+    "shanghainese": "阿拉今朝出去白相",
+    "aliases": [],
+    "weight": 148,
+    "enabled": true,
+    "category": "phrase",
+    "note": "生活表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "身体好吗",
+    "shanghainese": "身体好伐",
+    "aliases": [
+      "身体还好吗"
+    ],
+    "weight": 146,
+    "enabled": true,
+    "category": "greeting",
+    "note": "问候语",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "行",
+    "shanghainese": "来塞",
+    "aliases": [
+      "可以"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "常用肯定",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "谁",
+    "shanghainese": "啥人",
+    "aliases": [
+      "谁啊"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "question",
+    "note": "疑问词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不要",
+    "shanghainese": "覅",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "沪语常见变体",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "认识",
+    "shanghainese": "认得",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "常用动词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "会说",
+    "shanghainese": "讲得来",
+    "aliases": [
+      "说得来"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "表达能力",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "一起",
+    "shanghainese": "一道",
+    "aliases": [
+      "一块"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "去玩",
+    "shanghainese": "去白相",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "胡说",
+    "shanghainese": "瞎讲",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "在家",
+    "shanghainese": "勒屋里",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "position",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "多少",
+    "shanghainese": "几许",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "question",
+    "note": "疑问词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "好的",
+    "shanghainese": "好额",
+    "aliases": [
+      "好"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不要紧",
+    "shanghainese": "勿要紧",
+    "aliases": [
+      "别紧张"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "一起去",
+    "shanghainese": "一道去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "共同动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "开玩笑",
+    "shanghainese": "寻开心",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "一会儿",
+    "shanghainese": "一歇",
+    "aliases": [
+      "一会"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "time",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "到家了",
+    "shanghainese": "到屋里了",
+    "aliases": [
+      "回到家了"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "还没有",
+    "shanghainese": "还呒没",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "状态表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别担心",
+    "shanghainese": "勿要担心",
+    "aliases": [
+      "不要担心"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "安慰表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "下雨了",
+    "shanghainese": "落雨了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "回头见",
+    "shanghainese": "回头再会",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "告别表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没听懂",
+    "shanghainese": "勿曾听懂",
+    "aliases": [
+      "没有听懂"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "理解表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "听不懂",
+    "shanghainese": "听勿懂",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "理解表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "看不懂",
+    "shanghainese": "看勿懂",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "理解表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "学不会",
+    "shanghainese": "学勿会",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "能力表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "记不住",
+    "shanghainese": "记勿牢",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "记忆表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别这样",
+    "shanghainese": "勿要介样",
+    "aliases": [
+      "不要这样"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别说了",
+    "shanghainese": "勿要讲了",
+    "aliases": [
+      "不要说了"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "制止表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "别问了",
+    "shanghainese": "勿要问了",
+    "aliases": [
+      "不要问了"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "制止表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不用谢",
+    "shanghainese": "勿用谢",
+    "aliases": [
+      "不用谢谢"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不客气",
+    "shanghainese": "勿要客气",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "太好了",
+    "shanghainese": "忒好了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "夸赞表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我回家",
+    "shanghainese": "吾转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你回家",
+    "shanghainese": "侬转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他回家",
+    "shanghainese": "伊转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她回家",
+    "shanghainese": "伊转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没什么事",
+    "shanghainese": "呒没啥事体",
+    "aliases": [
+      "没啥事"
+    ],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天很热",
+    "shanghainese": "今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天很冷",
+    "shanghainese": "今朝蛮冷",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "出太阳了",
+    "shanghainese": "出日头了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天下雨",
+    "shanghainese": "明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "想不起来",
+    "shanghainese": "想勿起来",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "记忆表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们回家",
+    "shanghainese": "阿拉转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们回家",
+    "shanghainese": "侬伲转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "verb",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我上海话",
+    "shanghainese": "吾上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你上海话",
+    "shanghainese": "侬上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他上海话",
+    "shanghainese": "伊上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她上海话",
+    "shanghainese": "伊上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你想什么",
+    "shanghainese": "侬想啥",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你要什么",
+    "shanghainese": "侬要啥",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "question",
+    "note": "高频问句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天回家",
+    "shanghainese": "明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天回家",
+    "shanghainese": "今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请你帮忙",
+    "shanghainese": "请侬帮忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "帮我一下",
+    "shanghainese": "帮吾一歇",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请等一下",
+    "shanghainese": "请等一歇",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你等一下",
+    "shanghainese": "侬等一歇",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我等一下",
+    "shanghainese": "吾等一歇",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真的很好",
+    "shanghainese": "真个蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真没办法",
+    "shanghainese": "真呒没办法",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "昨天下雨了",
+    "shanghainese": "昨朝落雨了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我今天很忙",
+    "shanghainese": "吾今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我今天很好",
+    "shanghainese": "吾今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我明天回家",
+    "shanghainese": "吾明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我今天回家",
+    "shanghainese": "吾今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我明天下雨",
+    "shanghainese": "吾明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我今天很热",
+    "shanghainese": "吾今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天很忙",
+    "shanghainese": "侬今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天很好",
+    "shanghainese": "侬今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你明天回家",
+    "shanghainese": "侬明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天回家",
+    "shanghainese": "侬今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你明天下雨",
+    "shanghainese": "侬明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你今天很热",
+    "shanghainese": "侬今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他今天很忙",
+    "shanghainese": "伊今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他今天很好",
+    "shanghainese": "伊今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他明天回家",
+    "shanghainese": "伊明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他今天回家",
+    "shanghainese": "伊今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他明天下雨",
+    "shanghainese": "伊明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他今天很热",
+    "shanghainese": "伊今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她今天很忙",
+    "shanghainese": "伊今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她今天很好",
+    "shanghainese": "伊今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她明天回家",
+    "shanghainese": "伊明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她今天回家",
+    "shanghainese": "伊今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她明天下雨",
+    "shanghainese": "伊明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她今天很热",
+    "shanghainese": "伊今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们上海话",
+    "shanghainese": "阿拉上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们上海话",
+    "shanghainese": "侬伲上海言话",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "昨天回家了",
+    "shanghainese": "昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天出去玩",
+    "shanghainese": "今朝出去白相",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "生活表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我昨天回家了",
+    "shanghainese": "吾昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你昨天回家了",
+    "shanghainese": "侬昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他昨天回家了",
+    "shanghainese": "伊昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她昨天回家了",
+    "shanghainese": "伊昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天很忙",
+    "shanghainese": "阿拉今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天很好",
+    "shanghainese": "阿拉今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们明天回家",
+    "shanghainese": "阿拉明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天回家",
+    "shanghainese": "阿拉今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们明天下雨",
+    "shanghainese": "阿拉明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们今天很热",
+    "shanghainese": "阿拉今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天很忙",
+    "shanghainese": "侬伲今朝老忙",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "life",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天很好",
+    "shanghainese": "侬伲今朝蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "response",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们明天回家",
+    "shanghainese": "侬伲明朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天回家",
+    "shanghainese": "侬伲今朝转去",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们明天下雨",
+    "shanghainese": "侬伲明朝落雨",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们今天很热",
+    "shanghainese": "侬伲今朝蛮热",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天天气很好",
+    "shanghainese": "今朝天气蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天天气很好",
+    "shanghainese": "明朝天气蛮好",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们昨天回家了",
+    "shanghainese": "阿拉昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们昨天回家了",
+    "shanghainese": "侬伲昨朝转去了",
+    "aliases": [],
+    "weight": 145,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我没事儿",
+    "shanghainese": "吾呒没关系额",
+    "aliases": [
+      "我没事",
+      "我没关系"
+    ],
+    "weight": 144,
+    "enabled": true,
+    "category": "response",
+    "note": "情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天很抱歉",
+    "shanghainese": "今朝老勿好意思额",
+    "aliases": [
+      "今天真不好意思"
+    ],
+    "weight": 144,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "等了这么长时间",
+    "shanghainese": "等了介许多辰光",
+    "aliases": [
+      "等了这么久"
+    ],
+    "weight": 144,
+    "enabled": true,
+    "category": "phrase",
+    "note": "情景短语",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "回家",
+    "shanghainese": "转去",
+    "aliases": [
+      "回去"
+    ],
+    "weight": 142,
+    "enabled": true,
+    "category": "verb",
+    "note": "常用动词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "上班",
+    "shanghainese": "做生活",
+    "aliases": [
+      "工作"
+    ],
+    "weight": 142,
+    "enabled": true,
+    "category": "life",
+    "note": "常用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天很忙",
+    "shanghainese": "今朝老忙",
+    "aliases": [],
+    "weight": 142,
+    "enabled": true,
+    "category": "life",
+    "note": "状态表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天真热",
+    "shanghainese": "今朝真热",
+    "aliases": [],
+    "weight": 142,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天真冷",
+    "shanghainese": "今朝真冷",
+    "aliases": [],
+    "weight": 142,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "今天很开心",
+    "shanghainese": "今朝老开心",
+    "aliases": [],
+    "weight": 142,
+    "enabled": true,
+    "category": "emotion",
+    "note": "情绪表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "昨天很开心",
+    "shanghainese": "昨朝老开心",
+    "aliases": [],
+    "weight": 142,
+    "enabled": true,
+    "category": "emotion",
+    "note": "情绪表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "很",
+    "shanghainese": "蛮",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "adverb",
+    "note": "程度副词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "聊天",
+    "shanghainese": "讲闲话",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "verb",
+    "note": "日常动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "起床",
+    "shanghainese": "起身",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "起居表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "下班",
+    "shanghainese": "收工",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "常用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "很多",
+    "shanghainese": "老多",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "quantity",
+    "note": "数量表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "好吧",
+    "shanghainese": "好伐",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "慢一点",
+    "shanghainese": "慢眼",
+    "aliases": [
+      "慢点"
+    ],
+    "weight": 140,
+    "enabled": true,
+    "category": "response",
+    "note": "节奏表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "回来了",
+    "shanghainese": "转来了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "phrase",
+    "note": "状态表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "太多了",
+    "shanghainese": "忒多了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "quantity",
+    "note": "数量表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "不一定",
+    "shanghainese": "勿一定",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "太热了",
+    "shanghainese": "忒热了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "太冷了",
+    "shanghainese": "忒冷了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "这么多",
+    "shanghainese": "介许多",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "quantity",
+    "note": "数量表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "这么久",
+    "shanghainese": "介许久",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "time",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "没问题",
+    "shanghainese": "呒没问题",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真开心",
+    "shanghainese": "老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "情绪表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我很忙",
+    "shanghainese": "吾老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我在家",
+    "shanghainese": "吾勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你很忙",
+    "shanghainese": "侬老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在家",
+    "shanghainese": "侬勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他很忙",
+    "shanghainese": "伊老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他在家",
+    "shanghainese": "伊勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她很忙",
+    "shanghainese": "伊老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她在家",
+    "shanghainese": "伊勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "天气很好",
+    "shanghainese": "天气蛮好",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我很开心",
+    "shanghainese": "吾老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我在这里",
+    "shanghainese": "吾勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我在那里",
+    "shanghainese": "吾勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你很开心",
+    "shanghainese": "侬老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在这里",
+    "shanghainese": "侬勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你在那里",
+    "shanghainese": "侬勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他很开心",
+    "shanghainese": "伊老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他在这里",
+    "shanghainese": "伊勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他在那里",
+    "shanghainese": "伊勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她很开心",
+    "shanghainese": "伊老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她在这里",
+    "shanghainese": "伊勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她在那里",
+    "shanghainese": "伊勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们很忙",
+    "shanghainese": "阿拉老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们在家",
+    "shanghainese": "阿拉勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们很忙",
+    "shanghainese": "侬伲老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们在家",
+    "shanghainese": "侬伲勒屋里",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "昨天很忙",
+    "shanghainese": "昨朝老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "明天很忙",
+    "shanghainese": "明朝老忙",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "life",
+    "note": "时间表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我先走了",
+    "shanghainese": "吾先走了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "告别表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你先走吧",
+    "shanghainese": "侬先走伐",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "告别表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们很开心",
+    "shanghainese": "阿拉老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们在这里",
+    "shanghainese": "阿拉勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们在那里",
+    "shanghainese": "阿拉勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们很开心",
+    "shanghainese": "侬伲老开心",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "emotion",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们在这里",
+    "shanghainese": "侬伲勒搿搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们在那里",
+    "shanghainese": "侬伲勒埃搭",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "position",
+    "note": "组合高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们先走了",
+    "shanghainese": "阿拉先走了",
+    "aliases": [],
+    "weight": 140,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "告别表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "时间",
+    "shanghainese": "辰光",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "time",
+    "note": "常用名词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "真的",
+    "shanghainese": "真个",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "response",
+    "note": "口语表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "小心",
+    "shanghainese": "当心",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "response",
+    "note": "提醒表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "晚上好",
+    "shanghainese": "夜里好",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "greeting",
+    "note": "晚间问候",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "雨很大",
+    "shanghainese": "雨老大",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "风很大",
+    "shanghainese": "风老大",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "weather",
+    "note": "天气表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "就这样",
+    "shanghainese": "就介样",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "response",
+    "note": "常用回应",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请帮帮忙",
+    "shanghainese": "请帮帮忙",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "就这样吧",
+    "shanghainese": "就介样伐",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "先这样吧",
+    "shanghainese": "先介样伐",
+    "aliases": [],
+    "weight": 138,
+    "enabled": true,
+    "category": "response",
+    "note": "高频短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "全部",
+    "shanghainese": "侪",
+    "aliases": [
+      "都"
+    ],
+    "weight": 136,
+    "enabled": true,
+    "category": "phrase",
+    "note": "数量表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "这边",
+    "shanghainese": "搿边",
+    "aliases": [],
+    "weight": 135,
+    "enabled": true,
+    "category": "position",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "那边",
+    "shanghainese": "埃边",
+    "aliases": [],
+    "weight": 135,
+    "enabled": true,
+    "category": "position",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "帮帮忙",
+    "shanghainese": "帮帮忙",
+    "aliases": [],
+    "weight": 135,
+    "enabled": true,
+    "category": "phrase",
+    "note": "请求表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "有事情",
+    "shanghainese": "有事体",
+    "aliases": [
+      "有事"
+    ],
+    "weight": 135,
+    "enabled": true,
+    "category": "phrase",
+    "note": "常用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "高兴",
+    "shanghainese": "开心",
+    "aliases": [
+      "开心"
+    ],
+    "weight": 132,
+    "enabled": true,
+    "category": "emotion",
+    "note": "情绪表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "着急",
+    "shanghainese": "急",
+    "aliases": [],
+    "weight": 132,
+    "enabled": true,
+    "category": "emotion",
+    "note": "情绪表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "外面",
+    "shanghainese": "外头",
+    "aliases": [],
+    "weight": 132,
+    "enabled": true,
+    "category": "position",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "里面",
+    "shanghainese": "里向",
+    "aliases": [],
+    "weight": 132,
+    "enabled": true,
+    "category": "position",
+    "note": "位置表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "一点点",
+    "shanghainese": "一眼眼",
+    "aliases": [],
+    "weight": 132,
+    "enabled": true,
+    "category": "phrase",
+    "note": "数量表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "说话",
+    "shanghainese": "讲话",
+    "aliases": [],
+    "weight": 130,
+    "enabled": true,
+    "category": "verb",
+    "note": "日常动作",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "谢谢大家",
+    "shanghainese": "谢谢大家",
+    "aliases": [],
+    "weight": 126,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "礼貌表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "帮忙",
+    "shanghainese": "帮忙",
+    "aliases": [],
+    "weight": 125,
+    "enabled": true,
+    "category": "verb",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "算了",
+    "shanghainese": "算了",
+    "aliases": [],
+    "weight": 125,
+    "enabled": true,
+    "category": "response",
+    "note": "通用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "吃饭",
+    "shanghainese": "吃饭",
+    "aliases": [],
+    "weight": 120,
+    "enabled": true,
+    "category": "life",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "当然",
+    "shanghainese": "当然",
+    "aliases": [],
+    "weight": 120,
+    "enabled": true,
+    "category": "response",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请坐",
+    "shanghainese": "请坐",
+    "aliases": [],
+    "weight": 120,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "通用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请进",
+    "shanghainese": "请进",
+    "aliases": [],
+    "weight": 120,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "通用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "热",
+    "shanghainese": "热",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "weather",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "冷",
+    "shanghainese": "冷",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "weather",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "请问",
+    "shanghainese": "请问",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "courtesy",
+    "note": "通用表达",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "马上",
+    "shanghainese": "马上",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "time",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "已经",
+    "shanghainese": "已经",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "time",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "可能",
+    "shanghainese": "可能",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "response",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我朋友",
+    "shanghainese": "吾朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你朋友",
+    "shanghainese": "侬朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "他朋友",
+    "shanghainese": "伊朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "她朋友",
+    "shanghainese": "伊朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "我们朋友",
+    "shanghainese": "阿拉朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "你们朋友",
+    "shanghainese": "侬伲朋友",
+    "aliases": [],
+    "weight": 118,
+    "enabled": true,
+    "category": "phrase",
+    "note": "主语+情景短句",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "朋友",
+    "shanghainese": "朋友",
+    "aliases": [],
+    "weight": 116,
+    "enabled": true,
+    "category": "noun",
+    "note": "通用词",
+    "source": "manual",
+    "status": "approved"
+  },
+  {
+    "mandarin": "现在",
+    "shanghainese": "现在",
+    "aliases": [
+      "这会儿"
+    ],
+    "weight": 110,
+    "enabled": true,
+    "category": "time",
+    "note": "通用词保留",
+    "source": "manual",
+    "status": "approved"
+  }
+]

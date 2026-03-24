@@ -1,66 +1,39 @@
-import Image from "next/image";
+import Link from "next/link";
 import styles from "./page.module.css";
+import { TranslatorPanel } from "@/components/translator-panel";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
+    <main className={styles.page}>
+      <section className={styles.hero}>
+        <p className={styles.kicker}>沪语转写测试版</p>
+        <div className={styles.copy}>
+          <h1>把普通话短句转成更常见的上海话汉字写法。</h1>
           <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+            输入一句普通话，系统会优先命中高频词条和常用短句，返回最多 3
+            个更贴近日常使用的上海话写法，适合直接拿来查、比、试。
           </p>
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <p className={styles.notice}>
+          当前为小范围公开测试。词库持续补充中，结果以常见写法优先；如果你遇到不自然或没命中的句子，可以直接反馈。
+        </p>
+        <div className={styles.badges}>
+          <span>适合短句和日常表达</span>
+          <span>提供多个常见候选</span>
+          <span>词库持续更新</span>
         </div>
-      </main>
-    </div>
+        <div className={styles.actions}>
+          <a className={styles.primaryAction} href="#translator">
+            立即试用
+          </a>
+          <Link className={styles.secondaryAction} href="/feedback">
+            反馈问题 / 建议
+          </Link>
+        </div>
+      </section>
+      <div id="translator">
+        <TranslatorPanel />
+      </div>
+    </main>
   );
 }

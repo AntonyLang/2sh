@@ -1,0 +1,9 @@
+{
+  "query": {
+    "categorymembers": [
+      { "title": "闲话" },
+      { "title": "上山" },
+      { "title": "阿拉" }
+    ]
+  }
+}

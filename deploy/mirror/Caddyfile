@@ -1,0 +1,7 @@
+cn.example.com {
+  encode zstd gzip
+  header {
+    X-Robots-Tag "noindex, nofollow"
+  }
+  reverse_proxy 127.0.0.1:3000
+}

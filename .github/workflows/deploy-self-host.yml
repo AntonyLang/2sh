@@ -1,0 +1,56 @@
+name: Deploy Self-Hosted
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure SSH
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s' "$DEPLOY_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p "${DEPLOY_PORT:-22}" "$DEPLOY_HOST" >> ~/.ssh/known_hosts
+
+      - name: Package release bundle
+        env:
+          ARCHIVE_PATH: /tmp/2sh-release.tgz
+        run: |
+          tar \
+            --exclude-vcs \
+            --exclude=.next \
+            --exclude=node_modules \
+            --exclude=var \
+            --exclude=.env.production \
+            --exclude=2sh-release.tgz \
+            -czf "$ARCHIVE_PATH" .
+
+      - name: Upload and deploy
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_APP_DIR: ${{ secrets.DEPLOY_APP_DIR }}
+        run: |
+          scp -P "${DEPLOY_PORT:-22}" /tmp/2sh-release.tgz "${DEPLOY_USER}@${DEPLOY_HOST}:/tmp/2sh-release.tgz"
+          ssh -p "${DEPLOY_PORT:-22}" "${DEPLOY_USER}@${DEPLOY_HOST}" "
+            set -euxo pipefail
+            mkdir -p '${DEPLOY_APP_DIR}'
+            find '${DEPLOY_APP_DIR}' -mindepth 1 -maxdepth 1 ! -name '.env.production' -exec rm -rf {} +
+            tar -xzf /tmp/2sh-release.tgz -C '${DEPLOY_APP_DIR}'
+            cd '${DEPLOY_APP_DIR}'
+            docker compose up -d --build --remove-orphans
+          "

@@ -1,36 +1,135 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 沪语转写测试版
 
-## Getting Started
+把普通话短句转成更常见的上海话汉字写法的极简网站。当前仓库默认走自托管路线：
 
-First, run the development server:
+- `Next.js` 单体应用
+- `filesystem` 作为默认持久化驱动
+- `Docker Compose + Caddy + supercronic` 作为默认生产部署
+- 生产目标默认是香港 VPS，当前线上入口可用 IP 或后续切正式域名
+
+## 本地开发
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+打开 [http://localhost:3000](http://localhost:3000)。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 环境变量
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+复制 `.env.example` 到 `.env.local` 后填写。常用项：
 
-## Learn More
+- `STORAGE_DRIVER=filesystem`
+- `DATA_DIR=var`
+- `ADMIN_SYNC_TOKEN=...`
+- `QUERY_LOGGING_ENABLED=true`
+- `FEEDBACK_RATE_LIMIT_WINDOW_MS=600000`
+- `FEEDBACK_RATE_LIMIT_MAX=5`
+- `SYNC_ENABLED=true`
+- `SYNC_TZ=Asia/Shanghai`
+- `SYNC_SCHEDULE=0 8 * * *`
+- `SITE_URL=http://localhost:3000`
 
-To learn more about Next.js, take a look at the following resources:
+生产环境样板见 `.env.production.example`。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 词库与质量闭环
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+人工词库维护入口：
 
-## Deploy on Vercel
+- `data/curated-lexicon.csv`
+- `data/generated/review-candidates.csv`
+- `data/regression-cases.json`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+同步和分析命令：
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run import-curated-csv
+npm run sync-dictionary
+npm run summarize-usage
+```
+
+运行时会写入：
+
+- `DATA_DIR/logs/queries/*.ndjson`
+- `DATA_DIR/feedback/*.ndjson`
+- `DATA_DIR/reports/usage/latest.json`
+- `DATA_DIR/reports/usage/top-unmatched.csv`
+- `DATA_DIR/reports/usage/top-feedback.csv`
+
+## 接口
+
+```http
+GET /api/translate?q=你好
+GET /api/dictionary/current
+GET /feedback
+POST /api/feedback
+GET /api/internal/sync
+```
+
+`/api/internal/sync` 默认使用 `ADMIN_SYNC_TOKEN` 鉴权。
+
+## 手动重部署到香港机
+
+本机打包：
+
+```bash
+npm run package-release
+```
+
+本机直接发布到当前香港机：
+
+```bash
+npm run deploy-self-host
+```
+
+默认参数：
+
+- `host=119.28.190.25`
+- `user=root`
+- `port=22`
+- `appDir=/srv/2sh`
+- `archive=2sh-release.zip`
+
+可覆盖：
+
+```bash
+npm run deploy-self-host -- --host 119.28.190.25 --user root --app-dir /srv/2sh
+```
+
+## GitHub 一键发布
+
+仓库内已提供工作流：
+
+- `.github/workflows/deploy-self-host.yml`
+
+建议步骤：
+
+1. 在 GitHub 创建一个空仓库。
+2. 本地添加远端并推送：
+
+```bash
+git remote add origin <your-github-repo-url>
+git push -u origin main
+```
+
+3. 在 GitHub 仓库 Secrets 里配置：
+   - `DEPLOY_HOST=119.28.190.25`
+   - `DEPLOY_PORT=22`
+   - `DEPLOY_USER=root`
+   - `DEPLOY_SSH_KEY=<root 可登录香港机的私钥>`
+   - `DEPLOY_APP_DIR=/srv/2sh`
+
+完成后：
+
+- `push` 到 `main` 会自动发布
+- 也可以在 Actions 页面手动触发 `Deploy Self-Hosted`
+
+## 测试
+
+```bash
+npm run test
+npm run lint
+npm run typecheck
+npm run build
+```
