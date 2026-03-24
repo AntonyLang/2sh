@@ -54,11 +54,11 @@ jobs:
           DEPLOY_APP_DIR: ${{ vars.DEPLOY_APP_DIR || secrets.DEPLOY_APP_DIR }}
         run: |
           scp -P "${DEPLOY_PORT:-22}" /tmp/2sh-release.tgz "${DEPLOY_USER}@${DEPLOY_HOST}:/tmp/2sh-release.tgz"
-          ssh -p "${DEPLOY_PORT:-22}" "${DEPLOY_USER}@${DEPLOY_HOST}" "
+          ssh -p "${DEPLOY_PORT:-22}" "${DEPLOY_USER}@${DEPLOY_HOST}" "sudo bash -lc '
             set -euxo pipefail
-            mkdir -p '${DEPLOY_APP_DIR}'
-            find '${DEPLOY_APP_DIR}' -mindepth 1 -maxdepth 1 ! -name '.env.production' -exec rm -rf {} +
-            tar -xzf /tmp/2sh-release.tgz -C '${DEPLOY_APP_DIR}'
-            cd '${DEPLOY_APP_DIR}'
+            mkdir -p \"${DEPLOY_APP_DIR}\"
+            find \"${DEPLOY_APP_DIR}\" -mindepth 1 -maxdepth 1 ! -name .env.production -exec rm -rf {} +
+            tar -xzf /tmp/2sh-release.tgz -C \"${DEPLOY_APP_DIR}\"
+            cd \"${DEPLOY_APP_DIR}\"
             docker compose up -d --build --remove-orphans
-          "
+          '"
